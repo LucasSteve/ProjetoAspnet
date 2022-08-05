@@ -1,0 +1,421 @@
+﻿++Solução 'ProjetoLoja' ‎(1 de 1 projeto)
+i:{00000000-0000-0000-0000-000000000000}:ProjetoLoja.sln
+++ProjetoLoja
+i:{00000000-0000-0000-0000-000000000000}:ProjetoLoja
+++Connected Services 
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:>1039
+++Dependências
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:>1038
+++Properties
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\properties\
+++launchSettings.json
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\properties\launchsettings.json
+++wwwroot
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\
+++css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\css\
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\
+++Imagens
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\
+++js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\js\
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\
+++favicon.ico
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\favicon.ico
+++Components
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\components\
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\shared\components\
+++CarrinhoCompraResumo.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\components\carrinhocompraresumo.cs
+++CategoriaMenu.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\components\categoriamenu.cs
+++Context
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\context\
+++AppDbContext.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\context\appdbcontext.cs
+++Controllers
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\controllers\
+++AccountController.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\controllers\accountcontroller.cs
+++CarrinhoCompraController.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\controllers\carrinhocompracontroller.cs
+++ContatoController.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\controllers\contatocontroller.cs
+++HomeController.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\controllers\homecontroller.cs
+++PedidoController.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\controllers\pedidocontroller.cs
+++ProdutoController.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\controllers\produtocontroller.cs
+++Migrations
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\migrations\
+++20220131174318_MigraçaoInicial.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\migrations\20220131174318_migraçaoinicial.cs
+++20220131182406_PopularCategorias.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\migrations\20220131182406_popularcategorias.cs
+++20220131183544_PopularProdutos.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\migrations\20220131183544_popularprodutos.cs
+++20220201190950_CarrinhoCompraItem.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\migrations\20220201190950_carrinhocompraitem.cs
+++20220321185313_DetalhePedidos.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\migrations\20220321185313_detalhepedidos.cs
+++20220322192443_AdicionarIdentity.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\migrations\20220322192443_adicionaridentity.cs
+++AppDbContextModelSnapshot.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\migrations\appdbcontextmodelsnapshot.cs
+++Models
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\models\
+++CarrinhoCompra.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\models\carrinhocompra.cs
+++CarrinhoCompraItem.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\models\carrinhocompraitem.cs
+++Categoria.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\models\categoria.cs
+++ErrorViewModel.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\models\errorviewmodel.cs
+++Pedido.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\models\pedido.cs
+++PedidoDetalhe.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\models\pedidodetalhe.cs
+++Produto.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\models\produto.cs
+++Repositories
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\repositories\
+++Interfaces
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\repositories\interfaces\
+++ICategoriaRepository.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\repositories\interfaces\icategoriarepository.cs
+++IPedidoRepository.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\repositories\interfaces\ipedidorepository.cs
+++IProdutoRepository.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\repositories\interfaces\iprodutorepository.cs
+++CategoriaRepository.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\repositories\categoriarepository.cs
+++PedidoRepository.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\repositories\pedidorepository.cs
+++ProdutoRepository.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\repositories\produtorepository.cs
+++TagHelpers
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\taghelpers\
+++EmailTagHelper.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\taghelpers\emailtaghelper.cs
+++ViewModel
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\viewmodel\
+++CarrinhoCompraViewModel.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\viewmodel\carrinhocompraviewmodel.cs
+++HomeViewModel.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\viewmodel\homeviewmodel.cs
+++LoginViewModel.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\viewmodel\loginviewmodel.cs
+++ProdutoListViewModel.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\viewmodel\produtolistviewmodel.cs
+++Views
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\
+++Account
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\account\
+++Login.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\account\login.cshtml
+++Register.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\account\register.cshtml
+++CarrinhoCompra
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\carrinhocompra\
+++Contato
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\contato\
+++Home
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\home\
+++Pedido
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\pedido\
+++Produto
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\produto\
+++Shared
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\shared\
+++_Carrousel.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\shared\_carrousel.cshtml
+++_Layout.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\shared\_loginpartial.cshtml
+++_ProdutosResumos.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\shared\_produtosresumos.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\_viewstart.cshtml
+++appsettings.json
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\appsettings.json
+++Program.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\program.cs
+++Startup.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\startup.cs
+++Nenhuma dependência de serviço descoberta
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:>1040
+++Analisadores
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:analisadores
+++Estruturas
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:estruturas
+++Pacotes
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:pacotes
+++site.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\css\site.css
+++carrinho.ico
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\carrinho.ico
+++cart4.svg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\cart4.svg
+++delete.png
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\delete.png
+++fones1.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\fones1.jpeg
+++fones2.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\fones2.jpeg
+++fones3.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\fones3.jpeg
+++imgLogin.png
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\imglogin.png
+++maquinadecortar.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\maquinadecortar.jpeg
+++Relogio1.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\relogio1.jpeg
+++relogio2.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\relogio2.jpeg
+++relogio3.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\relogio3.jpeg
+++relogio4.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\relogio4.jpeg
+++relogio5.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\relogio5.jpeg
+++relogio6.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\relogio6.jpeg
+++relogio7.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\relogio7.jpeg
+++relogio8.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\relogio8.jpeg
+++Sem título-1.png
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\sem título-1.png
+++smart2.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\smart2.jpeg
+++smart3.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\smart3.jpeg
+++smart4.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\smart4.jpeg
+++smart5.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\smart5.jpeg
+++smart6.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\smart6.jpeg
+++smart7.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\smart7.jpeg
+++smatwathc1.jpeg
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\smatwathc1.jpeg
+++teste.png
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\imagens\teste.png
+++site.js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\js\site.js
+++bootstrap
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\
+++jquery
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery\
+++jquery-validation
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery-validation-unobtrusive\
+++20220131174318_MigraçaoInicial.Designer.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\migrations\20220131174318_migraçaoinicial.designer.cs
+++20220131182406_PopularCategorias.Designer.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\migrations\20220131182406_popularcategorias.designer.cs
+++20220131183544_PopularProdutos.Designer.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\migrations\20220131183544_popularprodutos.designer.cs
+++20220201190950_CarrinhoCompraItem.Designer.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\migrations\20220201190950_carrinhocompraitem.designer.cs
+++20220321185313_DetalhePedidos.Designer.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\migrations\20220321185313_detalhepedidos.designer.cs
+++20220322192443_AdicionarIdentity.Designer.cs
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\migrations\20220322192443_adicionaridentity.designer.cs
+++Index.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\carrinhocompra\index.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\contato\index.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\home\index.cshtml
+++Checkout.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\pedido\checkout.cshtml
+++CheckoutCompleto.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\pedido\checkoutcompleto.cshtml
+++Detalhes.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\produto\detalhes.cshtml
+++List.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\produto\list.cshtml
+++CarrinhoCompraResumo
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\shared\components\carrinhocompraresumo\
+++CategoriaMenu
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\shared\components\categoriamenu\
+++_Layout.cshtml.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\appsettings.development.json
+++MessagePackAnalyzer
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\microsoft.netcore.app
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.3)
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:>1063
+++Microsoft.EntityFrameworkCore.Design (6.0.3)
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:>1062
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.3)
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:>1061
+++Microsoft.EntityFrameworkCore.Tools (6.0.3)
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:>1064
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.2)
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:>1065
+++dist
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery\dist\
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery\license.txt
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++Default.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\shared\components\carrinhocompraresumo\default.cshtml
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\views\shared\components\categoriamenu\default.cshtml
+++jquery.js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{96c94d8b-9592-4f45-8132-33dd6010b498}:c:\users\lucas\onedrive\área de trabalho\projetoloja\projetoloja\projetoloja\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
