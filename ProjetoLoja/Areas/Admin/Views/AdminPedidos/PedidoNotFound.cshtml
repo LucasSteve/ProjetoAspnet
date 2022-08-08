@@ -1,0 +1,15 @@
+﻿@model int
+
+@{
+    ViewData["Title"] = "404 Not foud";
+}
+
+<div class="alert alert-danger mt-1 mb-1">
+    <h1>ERRO 404 NOT FOUND</h1>
+    <hr />
+    <h2>Pedido com o id = @Model não foi encontrado</h2>
+</div>
+
+<a asp-action="Index" asp-controller="AdminPedidos" class="btn btn-outline-sucess">
+    <h2>Voltar</h2>
+</a>

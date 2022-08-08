@@ -5,6 +5,7 @@ using ProjetoLoja.Models;
 using ProjetoLoja.Repositories;
 using ProjetoLoja.Repositories.Interfaces;
 using ProjetoLoja.Services;
+using ReflectionIT.Mvc.Paging;
 
 namespace ProjetoLoja;
 public class Startup
@@ -36,6 +37,11 @@ public class Startup
         services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
         services.AddScoped(sp => CarrinhoCompra.GetCarrinho(sp));
         services.AddControllersWithViews();
+        services.AddPaging(options =>
+        {
+            options.ViewName = "Bootstrap4";
+            options.PageParameterName = "pageindex";
+        });
         services.AddMemoryCache();
         services.AddSession();
     }
