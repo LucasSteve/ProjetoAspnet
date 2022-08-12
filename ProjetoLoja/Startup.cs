@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using ProjetoLoja.Areas.Admin.Services;
 using ProjetoLoja.Context;
 using ProjetoLoja.Models;
 using ProjetoLoja.Repositories;
@@ -26,6 +27,8 @@ public class Startup
         services.AddTransient<ICategoriaRepository, CategoriaRepository>();
         services.AddTransient<IPedidoRepository, PedidoRepository>();
         services.AddScoped <ISeedUserRoleInitial, SeedUserRoleInitial>();
+        services.Configure<ConfigurationImagens>(Configuration.GetSection("ConfigurationPastaImagens"));
+        services.AddScoped < RelatorioVendasService>();
         services.AddAuthorization(Options =>
         {
             Options.AddPolicy("Admin",
@@ -44,6 +47,11 @@ public class Startup
         });
         services.AddMemoryCache();
         services.AddSession();
+    }
+
+    private int RelatoriVendasService()
+    {
+        throw new NotImplementedException();
     }
 
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

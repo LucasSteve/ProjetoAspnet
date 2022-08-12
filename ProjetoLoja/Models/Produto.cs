@@ -18,12 +18,12 @@ namespace ProjetoLoja.Models
         public decimal Preco { get; set; }
 
         [Required(ErrorMessage ="Digite uma descriçao curta para o produto!")]
-        [StringLength(100,MinimumLength = 20,ErrorMessage ="A descriçao deve ter entre {1} e {2} caracteres")]
+        [StringLength(100,MinimumLength = 20,ErrorMessage ="A descriçao deve ter entre {2} e {1} caracteres")]
         [Display(Name ="Descriçao curta")]
         public string DescricaoCurta { get; set; }
 
         [Required(ErrorMessage = "Digite uma descriçao longa para o produto!")]
-        [StringLength(1000, MinimumLength = 20, ErrorMessage = "A descriçao deve ter entre {1} e {2} caracteres")]
+        [StringLength(1000, MinimumLength = 20, ErrorMessage = "A descriçao deve ter entre {2} e {1} caracteres")]
         [Display(Name = "Descriçao longa")]
         public string DescricaoLonga { get; set; }
 

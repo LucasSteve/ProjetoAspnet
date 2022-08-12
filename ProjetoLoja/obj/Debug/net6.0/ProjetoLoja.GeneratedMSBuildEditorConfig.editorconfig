@@ -35,6 +35,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yaWFzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/lucas/OneDrive/Área de Trabalho/ProjetoLoja/ProjetoLoja/ProjetoLoja/Areas/Admin/Views/AdminImagens/GetImagens.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5JbWFnZW5zXEdldEltYWdlbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucas/OneDrive/Área de Trabalho/ProjetoLoja/ProjetoLoja/ProjetoLoja/Areas/Admin/Views/AdminImagens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5JbWFnZW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucas/OneDrive/Área de Trabalho/ProjetoLoja/ProjetoLoja/ProjetoLoja/Areas/Admin/Views/AdminImagens/UploadFiles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5JbWFnZW5zXFVwbG9hZEZpbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/lucas/OneDrive/Área de Trabalho/ProjetoLoja/ProjetoLoja/ProjetoLoja/Areas/Admin/Views/AdminPedidos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QZWRpZG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -81,6 +93,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/lucas/OneDrive/Área de Trabalho/ProjetoLoja/ProjetoLoja/ProjetoLoja/Areas/Admin/Views/AdminProdutos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Qcm9kdXRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucas/OneDrive/Área de Trabalho/ProjetoLoja/ProjetoLoja/ProjetoLoja/Areas/Admin/Views/AdminRelatorioVendas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5SZWxhdG9yaW9WZW5kYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucas/OneDrive/Área de Trabalho/ProjetoLoja/ProjetoLoja/ProjetoLoja/Areas/Admin/Views/AdminRelatorioVendas/RelatorioVendasSimples.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5SZWxhdG9yaW9WZW5kYXNcUmVsYXRvcmlvVmVuZGFzU2ltcGxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lucas/OneDrive/Área de Trabalho/ProjetoLoja/ProjetoLoja/ProjetoLoja/Areas/Admin/Views/Admin/Index.cshtml]
