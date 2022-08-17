@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mHNX5GssaBiUeSVkiZ2x3EoYGwACQFV3IgmgCn7n0MA=",
+  "Hash": "9GSeLhsGCoU30oNMyTgHWCIXE9P9Adgnuza7cTdPShk=",
   "Source": "ProjetoLoja",
   "BasePath": "_content/ProjetoLoja",
   "Mode": "Default",
@@ -238,23 +238,6 @@
       "OriginalItemSpec": "wwwroot\\Imagens\\maquinadecortar.jpeg"
     },
     {
-      "Identity": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\ProjetoLoja\\ProjetoLoja\\ProjetoLoja\\wwwroot\\Imagens\\Produtos\\caixa2.jpeg",
-      "SourceId": "ProjetoLoja",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\ProjetoLoja\\ProjetoLoja\\ProjetoLoja\\wwwroot\\",
-      "BasePath": "_content/ProjetoLoja",
-      "RelativePath": "Imagens/Produtos/caixa2.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagens\\Produtos\\caixa2.jpeg"
-    },
-    {
       "Identity": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\ProjetoLoja\\ProjetoLoja\\ProjetoLoja\\wwwroot\\Imagens\\Produtos\\caixa3.jpeg",
       "SourceId": "ProjetoLoja",
       "SourceType": "Discovered",
@@ -272,12 +255,12 @@
       "OriginalItemSpec": "wwwroot\\Imagens\\Produtos\\caixa3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\ProjetoLoja\\ProjetoLoja\\ProjetoLoja\\wwwroot\\Imagens\\Produtos\\caixadesom.jpeg",
+      "Identity": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\ProjetoLoja\\ProjetoLoja\\ProjetoLoja\\wwwroot\\Imagens\\Produtos\\fones1.jpeg",
       "SourceId": "ProjetoLoja",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\ProjetoLoja\\ProjetoLoja\\ProjetoLoja\\wwwroot\\",
       "BasePath": "_content/ProjetoLoja",
-      "RelativePath": "Imagens/Produtos/caixadesom.jpeg",
+      "RelativePath": "Imagens/Produtos/fones1.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagens\\Produtos\\caixadesom.jpeg"
+      "OriginalItemSpec": "wwwroot\\Imagens\\Produtos\\fones1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\ProjetoLoja\\ProjetoLoja\\ProjetoLoja\\wwwroot\\Imagens\\Produtos\\fones3.jpeg",
+      "Identity": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\ProjetoLoja\\ProjetoLoja\\ProjetoLoja\\wwwroot\\Imagens\\Produtos\\relogio2.jpeg",
       "SourceId": "ProjetoLoja",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\ProjetoLoja\\ProjetoLoja\\ProjetoLoja\\wwwroot\\",
       "BasePath": "_content/ProjetoLoja",
-      "RelativePath": "Imagens/Produtos/fones3.jpeg",
+      "RelativePath": "Imagens/Produtos/relogio2.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,7 +286,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagens\\Produtos\\fones3.jpeg"
+      "OriginalItemSpec": "wwwroot\\Imagens\\Produtos\\relogio2.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\ProjetoLoja\\ProjetoLoja\\ProjetoLoja\\wwwroot\\Imagens\\Produtos\\smart5.jpeg",
+      "SourceId": "ProjetoLoja",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\ProjetoLoja\\ProjetoLoja\\ProjetoLoja\\wwwroot\\",
+      "BasePath": "_content/ProjetoLoja",
+      "RelativePath": "Imagens/Produtos/smart5.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagens\\Produtos\\smart5.jpeg"
     },
     {
       "Identity": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\ProjetoLoja\\ProjetoLoja\\ProjetoLoja\\wwwroot\\Imagens\\Relogio1.jpeg",

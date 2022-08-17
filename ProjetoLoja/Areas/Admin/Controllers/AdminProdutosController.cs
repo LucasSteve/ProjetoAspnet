@@ -17,11 +17,15 @@ namespace ProjetoLoja.Areas.Admin.Controllers
     public class AdminProdutosController : Controller
     {
         private readonly AppDbContext _context;
+        private readonly IWebHostEnvironment _webHostEnvironment;
 
-        public AdminProdutosController(AppDbContext context)
+
+        public AdminProdutosController(AppDbContext context,IWebHostEnvironment webHostEnvironment)
         {
             _context = context;
+            _webHostEnvironment = webHostEnvironment;
         }
+
 
         // GET: Admin/AdminProdutos
         public async Task<IActionResult> Index(string filter, int pageindex = 1, string sort = "Nome")
@@ -60,7 +64,7 @@ namespace ProjetoLoja.Areas.Admin.Controllers
         // GET: Admin/AdminProdutos/Create
         public IActionResult Create()
         {
-            ViewData["CategoriaId"] = new SelectList(_context.Categorias, "CategoriaId", "CategoriaNome");
+            ViewData["CategoriaId"] = new SelectList(_context.Categorias, "CategoriaId", "CategoriaNome");            
             return View();
         }
 
@@ -69,10 +73,20 @@ namespace ProjetoLoja.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ProdutoId,Nome,Preco,DescricaoCurta,DescricaoLonga,Quantidade,DataCompra,ValorPago,ImagemUrl,ImagemThumbUrl,IsProdutoPreferido,EmEstoque,CategoriaId")] Produto produto)
+        public async Task<IActionResult> Create([Bind("ProdutoId,Nome,Preco,DescricaoCurta,DescricaoLonga,Quantidade,DataCompra,ValorPago,ImagemUrl,ImagemThumbUrl,IsProdutoPreferido,EmEstoque,CategoriaId,Imagem")] Produto produto)
         {
             if (ModelState.IsValid)
             {
+                string wwwrootPath = _webHostEnvironment.WebRootPath;
+                string fileName = Path.GetFileName(produto.Imagem.FileName);
+                string path = Path.Combine(wwwrootPath + "/Imagens/Produtos", fileName);
+                produto.ImagemUrl = fileName;
+                using (var Stream = new FileStream(path, FileMode.Create))
+                {
+                    await produto.Imagem.CopyToAsync(Stream);
+                }
+
+
                 _context.Add(produto);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -103,7 +117,7 @@ namespace ProjetoLoja.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ProdutoId,Nome,Preco,DescricaoCurta,DescricaoLonga,Quantidade,DataCompra,ValorPago,ImagemUrl,ImagemThumbUrl,IsProdutoPreferido,EmEstoque,CategoriaId")] Produto produto)
+        public async Task<IActionResult> Edit(int id, [Bind("ProdutoId,Nome,Preco,DescricaoCurta,DescricaoLonga,Quantidade,DataCompra,ValorPago,ImagemUrl,ImagemThumbUrl,IsProdutoPreferido,EmEstoque,CategoriaId,Imagem")] Produto produto)
         {
             if (id != produto.ProdutoId)
             {
@@ -114,6 +128,14 @@ namespace ProjetoLoja.Areas.Admin.Controllers
             {
                 try
                 {
+                    string wwwrootPath = _webHostEnvironment.WebRootPath;
+                    string fileName = Path.GetFileName(produto.Imagem.FileName);
+                    string path = Path.Combine(wwwrootPath + "/Imagens/Produtos", fileName);
+                    produto.ImagemUrl = fileName;
+                    using (var Stream = new FileStream(path, FileMode.Create))
+                    {
+                        await produto.Imagem.CopyToAsync(Stream);
+                    }
                     _context.Update(produto);
                     await _context.SaveChangesAsync();
                 }

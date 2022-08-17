@@ -11,7 +11,7 @@ namespace ProjetoLoja.Areas.Admin.Controllers
     {
         private readonly ConfigurationImagens _myConfig;
         private readonly IWebHostEnvironment _webHostEnvironment;
-        public AdminImagensController(IWebHostEnvironment webHostEnvironment,IOptions<ConfigurationImagens> myConfiguration)
+        public AdminImagensController(IWebHostEnvironment webHostEnvironment, IOptions<ConfigurationImagens> myConfiguration)
         {
             _webHostEnvironment = webHostEnvironment;
             _myConfig = myConfiguration.Value;
@@ -21,7 +21,7 @@ namespace ProjetoLoja.Areas.Admin.Controllers
             return View();
         }
 
-        public async Task<IActionResult> UploadFiles(List<IFormFile> files)
+        public async Task<IActionResult> UploadFiles(List<IFormFile> files,FileManagerModel imagem)
         {
             if (files == null || files.Count == 0)
             {
@@ -39,13 +39,14 @@ namespace ProjetoLoja.Areas.Admin.Controllers
             var filePathName = new List<string>();
             var filePath = Path.Combine(_webHostEnvironment.WebRootPath,
                 _myConfig.NomePastaImagensProdutos);
-
+            
             foreach(var formFile in files)
             {
                 if(formFile.FileName.Contains(".jpg")|| formFile.FileName.Contains(".gif")|| formFile.FileName.Contains(".png")|| formFile.FileName.Contains(".jpeg"))
                 {
                     var fileNameWithPath = string.Concat(filePath, "\\", formFile.FileName);
                     filePathName.Add(fileNameWithPath);
+                    imagem.ImagemNome = fileNameWithPath;
                     using (var stream = new FileStream(fileNameWithPath, FileMode.Create))
                     {
                         await formFile.CopyToAsync(stream);

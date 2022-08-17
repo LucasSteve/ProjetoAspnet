@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ProjetoLoja.Models
@@ -54,6 +55,12 @@ namespace ProjetoLoja.Models
         [Display(Name = "Categorias")]
         public int CategoriaId { get; set; }
         public virtual Categoria Categoria { get; set; }
+
+        [NotMapped]
+        [DisplayName("Upload imagem")]
+        public IFormFile Imagem { get; set; }
+
+        
 
     }
 }
